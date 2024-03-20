@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Coustard:wght@400;900&family=Roboto+Flex:opsz,wght@8..144,100..1000&family=Syne:wght@400..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-image: url(archives/images/Stars.gif);
+    background-size: cover;
+}
+
+header {
+    margin: 0;
+}
+
+.top {
+    padding: 0;
+}
+
+.top ul {
+    display: inline-flex;
+    position: none;
+}
+
+.top ul li {
+    list-style: none;
+    padding: 10px;
+    font-size: 25px;
+}
+
+.top ul li i {
+    color: white;
+}
+
+.menu-bar {
+    padding-top: 120px;
+    display: inline-block;
+}
